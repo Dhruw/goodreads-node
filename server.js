@@ -5,7 +5,7 @@ const xmlParser = require('xml2json');
 const cors = require('cors');
 const app = express();
 
-
+const port_number = server.listen(process.env.PORT || 3001);
 
 app.use(bodyParser.json());
 app.use(cors());
@@ -31,4 +31,4 @@ app.get('/search/:searchText/:page', (request, response) => {
 
 });
 
-app.listen(3001);
+app.listen(port_number);
