@@ -1,0 +1,960 @@
+{
+	"GoodreadsResponse": {
+		"Request": {
+			"authentication": "true",
+			"key": "a2v63G5HQqqbWau8bjzdFA",
+			"method": "search_search"
+		},
+		"search": {
+			"query": "think",
+			"results-start": "1",
+			"results-end": "20",
+			"total-results": "18368",
+			"source": "Goodreads",
+			"query-time-seconds": "0.23",
+			"results": {
+				"work": [{
+					"id": {
+						"type": "integer",
+						"$t": "1199320"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "793"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "140335"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "4256"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "1937"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "4.17",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "30186948"
+						},
+						"title": "Think and Grow Rich",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "399"
+							},
+							"name": "Napoleon Hill"
+						},
+						"image_url": "https://images.gr-assets.com/books/1463241782m/30186948.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1463241782s/30186948.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "24034629"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "53"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "37649"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "3008"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2014"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "5"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "12"
+					},
+					"average_rating": "3.84",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "17331349"
+						},
+						"title": "Think Like a Freak",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "798"
+							},
+							"name": "Steven D. Levitt"
+						},
+						"image_url": "https://images.gr-assets.com/books/1395610974m/17331349.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1395610974s/17331349.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "3040910"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "23"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "11979"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "366"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "1975"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "8"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "12"
+					},
+					"average_rating": "4.13",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "41757"
+						},
+						"title": "Oh, the Thinks You Can Think!",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "61105"
+							},
+							"name": "Dr. Seuss"
+						},
+						"image_url": "https://images.gr-assets.com/books/1327448655m/41757.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1327448655s/41757.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "1097424"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "22"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "6515"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "715"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2006"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.93",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "265525"
+						},
+						"title": "Whatever You Think, Think the Opposite",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "66409"
+							},
+							"name": "Paul Arden"
+						},
+						"image_url": "https://images.gr-assets.com/books/1403188280m/265525.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1403188280s/265525.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "6198519"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "73"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "36026"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "2523"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2009"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "1"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "1"
+					},
+					"average_rating": "3.82",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "6023056"
+						},
+						"title": "Act Like a Lady, Think Like a Man: What Men Really Think About Love, Relationships, Intimacy, and Commitment",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "206062"
+							},
+							"name": "Steve  Harvey"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "55226435"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "16"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "10566"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "1583"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2018"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "4"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "24"
+					},
+					"average_rating": "3.81",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "35961720"
+						},
+						"title": "You Think It, I'll Say It",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "6429"
+							},
+							"name": "Curtis Sittenfeld"
+						},
+						"image_url": "https://images.gr-assets.com/books/1511377802m/35961720.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1511377802s/35961720.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "10980742"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "91"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "20725"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "2059"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2010"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.84",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "7853137"
+						},
+						"title": "Think of a Number (Dave Gurney, #1)",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "3248211"
+							},
+							"name": "John Verdon"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "7261277"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "60"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "67716"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "4659"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2010"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "4.19",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "7015403"
+						},
+						"title": "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "162578"
+							},
+							"name": "Brené Brown"
+						},
+						"image_url": "https://images.gr-assets.com/books/1369092544m/7015403.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1369092544s/7015403.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "40168913"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "15"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "3685"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "691"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2014"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "7"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "1"
+					},
+					"average_rating": "4.24",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "34715257"
+						},
+						"title": "Think of England (Think of England, #1)",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "7123498"
+							},
+							"name": "K.J. Charles"
+						},
+						"image_url": "https://images.gr-assets.com/books/1490705360m/34715257.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1490705360s/34715257.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "1579656"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "1"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "20304"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "563"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "1937"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "12"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "21"
+					},
+					"average_rating": "3.99",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "28351"
+						},
+						"title": "And to Think That I Saw It on Mulberry Street",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "61105"
+							},
+							"name": "Dr. Seuss"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "2057949"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "28"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "10153"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "759"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2007"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.90",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "185897"
+						},
+						"title": "How Doctors Think",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "108325"
+							},
+							"name": "Jerome Groopman"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "7332789"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "31"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "12554"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "1286"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2010"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "3"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.64",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "7078265"
+						},
+						"title": "Think Twice (Rosato & Associates, #11)",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "20258"
+							},
+							"name": "Lisa Scottoline"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "1516234"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "32"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "2541"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "143"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2001"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.69",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "69932"
+						},
+						"title": "Thinks . . .",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "6570"
+							},
+							"name": "David Lodge"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "24490322"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "18"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "5371"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "1073"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2014"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "3"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "8"
+					},
+					"average_rating": "3.74",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "17560541"
+						},
+						"title": "Don't Even Think About It (Don't Even Think About It, #1)",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "771"
+							},
+							"name": "Sarah Mlynowski"
+						},
+						"image_url": "https://images.gr-assets.com/books/1379610329m/17560541.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1379610329s/17560541.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "15620"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "23"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "2375"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "129"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "1964"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "4.41",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "13470"
+						},
+						"title": "Think on These Things",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "850512"
+							},
+							"name": "Jiddu Krishnamurti"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "18368758"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "25"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "7823"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "795"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2012"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "2"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "21"
+					},
+					"average_rating": "4.11",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "13187824"
+						},
+						"title": "Abundance: The Future Is Better Than You Think",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "5376311"
+							},
+							"name": "Peter H. Diamandis"
+						},
+						"image_url": "https://images.gr-assets.com/books/1344396582m/13187824.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1344396582s/13187824.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "6139257"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "17"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "4575"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "167"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2008"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "11"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "11"
+					},
+					"average_rating": "4.16",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "5966335"
+						},
+						"title": "I Can't Think Straight",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "374437"
+							},
+							"name": "Shamim Sarif"
+						},
+						"image_url": "https://images.gr-assets.com/books/1467942232m/5966335.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1467942232s/5966335.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "21529367"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "37"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "5450"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "531"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2013"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.54",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "15805442"
+						},
+						"title": "Mastermind: How to Think Like Sherlock Holmes",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "6461111"
+							},
+							"name": "Maria Konnikova"
+						},
+						"image_url": "https://images.gr-assets.com/books/1355094882m/15805442.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1355094882s/15805442.jpg"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "10934698"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "23"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "26706"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "837"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2011"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"$t": "4"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"$t": "12"
+					},
+					"average_rating": "3.82",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "7841446"
+						},
+						"title": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "32131"
+							},
+							"name": "Steven Levy"
+						},
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+					}
+				}, {
+					"id": {
+						"type": "integer",
+						"$t": "6526964"
+					},
+					"books_count": {
+						"type": "integer",
+						"$t": "54"
+					},
+					"ratings_count": {
+						"type": "integer",
+						"$t": "7585"
+					},
+					"text_reviews_count": {
+						"type": "integer",
+						"$t": "590"
+					},
+					"original_publication_year": {
+						"type": "integer",
+						"$t": "2009"
+					},
+					"original_publication_month": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"original_publication_day": {
+						"type": "integer",
+						"nil": "true"
+					},
+					"average_rating": "3.84",
+					"best_book": {
+						"type": "Book",
+						"id": {
+							"type": "integer",
+							"$t": "6340948"
+						},
+						"title": "59 Seconds: Think a Little, Change a Lot",
+						"author": {
+							"id": {
+								"type": "integer",
+								"$t": "57795"
+							},
+							"name": "Richard Wiseman"
+						},
+						"image_url": "https://images.gr-assets.com/books/1356450479m/6340948.jpg",
+						"small_image_url": "https://images.gr-assets.com/books/1356450479s/6340948.jpg"
+					}
+				}]
+			}
+		}
+	}
+}
