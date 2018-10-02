@@ -5,7 +5,7 @@ const xmlParser = require('xml2json');
 const cors = require('cors');
 const app = express();
 
-const port_number = server.listen(process.env.PORT || 3001);
+var port_number = server.listen(process.env.PORT || 3001);
 
 app.use(bodyParser.json());
 app.use(cors());
