@@ -29,6 +29,26 @@ app.get('/search/:searchText/:page', (request, response) => {
 
 });
 
+
+app.get('/author/:authorId', (request, response) => {
+	const {
+		authorId
+	} = request.params;
+
+	axios.get('https://www.goodreads.com/author/show.xml?key=a2v63G5HQqqbWau8bjzdFA&id='+ authorId )
+	.then(xmlAuthor => {
+
+		let jsonAuthor = xmlParser.toJson( xmlAuthor.data, {
+			object: true,
+			sanitize: true,
+		});
+
+		response.json(jsonAuthor.GoodreadsResponse.author)
+	})
+
+});
+
+
 const port_number = process.env.PORT || 3001;
 
 app.listen(port_number);
